@@ -1,0 +1,2 @@
+Face Detection and Song Recommendation
+This project involves using OpenCV for face detection, DeepFace for emotion detection, and Pygame for audio playback. It captures video from a camera, analyzes the emotions of detected faces, and plays songs corresponding to those emotions. It's a fusion of computer vision, machine learning, and audio processing to recommend songs based on detected emotions in real-time video.
